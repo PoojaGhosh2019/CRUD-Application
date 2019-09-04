@@ -16,6 +16,9 @@ DELETE - https://6oj8ul6o85.execute-api.us-east-1.amazonaws.com/dev/v1/user/{nam
 Following dependent module needs to be installed locally:
 
 Serverless
+
 AWS-SDK
+
 Express
+
 Body-Parser
