@@ -1,9 +1,9 @@
 Basic CRUD Application development documentation:
 
 Deploying Backend in AWS serverless using Serverless Framework
-a. AWS Lambda functions which gets invoked through HTTP events POST, GET, DELETE through API Gateway.
+AWS Lambda functions which gets invoked through HTTP events POST, GET, DELETE through API Gateway.
 
-b. Create backend for accessing the database, data stored in dynamoDB table. 
+Create backend for accessing the database, data stored in dynamoDB table. 
 
 It provides following three API endpoints.
 
